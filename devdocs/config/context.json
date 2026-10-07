@@ -1,0 +1,6 @@
+{
+  "project": {
+    "name": "shikumi-contrace",
+    "requires-python": ">=3.11"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "include": ["."],
+  "typeCheckingMode": "standard",
+  "pythonVersion": "3.11",
+  "extraPaths": ["../../src"],
+  "reportUnnecessaryTypeIgnoreComment": "error"
+}
